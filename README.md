@@ -38,12 +38,12 @@ Statistical-Modelling-II/
 │       ├── league_players.csv
 │       └── ashford_matches.csv
 ├── notes/
-│   └── bmi-investigation.md
+│   ├── bmi-investigation.md
+│   └── who-did-what.md
 └── scripts/
+    ├── 01_bmi_exploration.R
+    └── 02_Goals_Scored_exploration.R
 ```
-
-Git does not track empty folders. The `scripts` folder will appear
-on GitHub once we save a file inside it.
 
 ## The datasets
 
